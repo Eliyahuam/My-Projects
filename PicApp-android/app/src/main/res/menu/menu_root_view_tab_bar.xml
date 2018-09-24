@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.eliyahugalfinal.picapp.rootViewTabBarActivity">
+    <item
+        android:id="@+id/addButton"
+
+        android:showAsAction="always"
+        android:title="+" />
+</menu>

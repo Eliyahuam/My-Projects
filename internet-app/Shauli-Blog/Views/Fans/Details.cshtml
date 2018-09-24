@@ -1,0 +1,58 @@
+﻿@model Shauli_Blog.Models.Fans
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Fans</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LastName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LastName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MaleFemale)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MaleFemale)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TimeInClub)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TimeInClub)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

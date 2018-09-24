@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "752363374492",
+    "firebase_url": "https://wewithyoudatabase-55f9d.firebaseio.com",
+    "project_id": "wewithyoudatabase-55f9d",
+    "storage_bucket": "wewithyoudatabase-55f9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752363374492:android:917bd54337635093",
+        "android_client_info": {
+          "package_name": "com.example.mac.wewithyouproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752363374492-qmcvso5cgs4jhbhdg3b9adu82713e70a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mac.wewithyouproject",
+            "certificate_hash": "ade5fc44110d6c7b777e84c9583c82e344c80943"
+          }
+        },
+        {
+          "client_id": "752363374492-1e80ddlu9c9pk16tcvo9k2605l9lt91f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2E-HRXVShJg0OKXbKB3vcmCGm5jWUDqw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752363374492-1e80ddlu9c9pk16tcvo9k2605l9lt91f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

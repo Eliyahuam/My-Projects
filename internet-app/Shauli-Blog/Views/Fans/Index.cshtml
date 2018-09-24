@@ -1,0 +1,57 @@
+﻿@model IEnumerable<Shauli_Blog.Models.Fans>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Fun Club</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LastName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MaleFemale)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TimeInClub)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LastName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MaleFemale)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.BDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TimeInClub)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.ID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.ID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.ID })
+        </td>
+    </tr>
+}
+
+</table>

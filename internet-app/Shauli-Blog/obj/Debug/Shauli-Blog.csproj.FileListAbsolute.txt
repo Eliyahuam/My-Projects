@@ -1,0 +1,83 @@
+c:\users\eliba\onedrive\מסמכים\visual studio 2015\Projects\Shauli-Blog\Shauli-Blog\bin\roslyn\csc.exe
+c:\users\eliba\onedrive\מסמכים\visual studio 2015\Projects\Shauli-Blog\Shauli-Blog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\eliba\onedrive\מסמכים\visual studio 2015\Projects\Shauli-Blog\Shauli-Blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\eliba\onedrive\מסמכים\visual studio 2015\Projects\Shauli-Blog\Shauli-Blog\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\eliba\onedrive\מסמכים\visual studio 2015\Projects\Shauli-Blog\Shauli-Blog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\eliba\onedrive\מסמכים\visual studio 2015\Projects\Shauli-Blog\Shauli-Blog\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\eliba\onedrive\מסמכים\visual studio 2015\Projects\Shauli-Blog\Shauli-Blog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\eliba\onedrive\מסמכים\visual studio 2015\Projects\Shauli-Blog\Shauli-Blog\bin\roslyn\System.Collections.Immutable.dll
+c:\users\eliba\onedrive\מסמכים\visual studio 2015\Projects\Shauli-Blog\Shauli-Blog\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\eliba\onedrive\מסמכים\visual studio 2015\Projects\Shauli-Blog\Shauli-Blog\bin\roslyn\vbc.exe
+c:\users\eliba\onedrive\מסמכים\visual studio 2015\Projects\Shauli-Blog\Shauli-Blog\bin\roslyn\VBCSCompiler.exe
+c:\users\eliba\onedrive\מסמכים\visual studio 2015\Projects\Shauli-Blog\Shauli-Blog\bin\roslyn\VBCSCompiler.exe.config
+c:\users\eliba\onedrive\מסמכים\visual studio 2015\Projects\Shauli-Blog\Shauli-Blog\bin\Shauli-Blog.dll.config
+c:\users\eliba\onedrive\מסמכים\visual studio 2015\Projects\Shauli-Blog\Shauli-Blog\bin\Shauli-Blog.dll
+c:\users\eliba\onedrive\מסמכים\visual studio 2015\Projects\Shauli-Blog\Shauli-Blog\bin\Shauli-Blog.pdb
+c:\users\eliba\onedrive\מסמכים\visual studio 2015\Projects\Shauli-Blog\Shauli-Blog\bin\EntityFramework.dll
+c:\users\eliba\onedrive\מסמכים\visual studio 2015\Projects\Shauli-Blog\Shauli-Blog\bin\EntityFramework.SqlServer.dll
+c:\users\eliba\onedrive\מסמכים\visual studio 2015\Projects\Shauli-Blog\Shauli-Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\eliba\onedrive\מסמכים\visual studio 2015\Projects\Shauli-Blog\Shauli-Blog\bin\Microsoft.Web.Infrastructure.dll
+c:\users\eliba\onedrive\מסמכים\visual studio 2015\Projects\Shauli-Blog\Shauli-Blog\bin\System.Web.Helpers.dll
+c:\users\eliba\onedrive\מסמכים\visual studio 2015\Projects\Shauli-Blog\Shauli-Blog\bin\System.Web.Mvc.dll
+c:\users\eliba\onedrive\מסמכים\visual studio 2015\Projects\Shauli-Blog\Shauli-Blog\bin\System.Web.Razor.dll
+c:\users\eliba\onedrive\מסמכים\visual studio 2015\Projects\Shauli-Blog\Shauli-Blog\bin\System.Web.Webpages.Deployment.dll
+c:\users\eliba\onedrive\מסמכים\visual studio 2015\Projects\Shauli-Blog\Shauli-Blog\bin\System.Web.Webpages.dll
+c:\users\eliba\onedrive\מסמכים\visual studio 2015\Projects\Shauli-Blog\Shauli-Blog\bin\System.Web.Webpages.Razor.dll
+c:\users\eliba\onedrive\מסמכים\visual studio 2015\Projects\Shauli-Blog\Shauli-Blog\bin\EntityFramework.xml
+c:\users\eliba\onedrive\מסמכים\visual studio 2015\Projects\Shauli-Blog\Shauli-Blog\bin\EntityFramework.SqlServer.xml
+c:\users\eliba\onedrive\מסמכים\visual studio 2015\Projects\Shauli-Blog\Shauli-Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\eliba\onedrive\מסמכים\visual studio 2015\Projects\Shauli-Blog\Shauli-Blog\bin\System.Web.Razor.xml
+c:\users\eliba\onedrive\מסמכים\visual studio 2015\Projects\Shauli-Blog\Shauli-Blog\bin\System.Web.Webpages.xml
+c:\users\eliba\onedrive\מסמכים\visual studio 2015\Projects\Shauli-Blog\Shauli-Blog\bin\System.Web.Webpages.Deployment.xml
+c:\users\eliba\onedrive\מסמכים\visual studio 2015\Projects\Shauli-Blog\Shauli-Blog\bin\System.Web.Webpages.Razor.xml
+c:\users\eliba\onedrive\מסמכים\visual studio 2015\Projects\Shauli-Blog\Shauli-Blog\bin\System.Web.Helpers.xml
+c:\users\eliba\onedrive\מסמכים\visual studio 2015\Projects\Shauli-Blog\Shauli-Blog\bin\System.Web.Mvc.xml
+c:\users\eliba\onedrive\מסמכים\visual studio 2015\Projects\Shauli-Blog\Shauli-Blog\obj\Debug\Shauli-Blog.dll
+c:\users\eliba\onedrive\מסמכים\visual studio 2015\Projects\Shauli-Blog\Shauli-Blog\obj\Debug\Shauli-Blog.pdb
+c:\users\eliba\onedrive\מסמכים\visual studio 2015\Projects\Shauli-Blog\Shauli-Blog\obj\Debug\Shauli_Blog.Migrations.InitialCreate.resources
+c:\users\eliba\onedrive\מסמכים\visual studio 2015\Projects\Shauli-Blog\Shauli-Blog\obj\Debug\Shauli-Blog.csproj.GenerateResource.Cache
+c:\users\eliba\onedrive\מסמכים\visual studio 2015\Projects\Shauli-Blog\Shauli-Blog\obj\Debug\Shauli_Blog.Migrations.init.resources
+c:\users\eliba\onedrive\מסמכים\visual studio 2015\Projects\Shauli-Blog\Shauli-Blog\obj\Debug\Shauli_Blog.Migrations.dbFans.resources
+c:\users\eliba\onedrive\מסמכים\visual studio 2015\Projects\Shauli-Blog\Shauli-Blog\obj\Debug\Shauli_Blog.Migrations.dbFan.resources
+C:\Users\eliba\Desktop\Shauli-Blog\Shauli-Blog\bin\roslyn\csc.exe
+C:\Users\eliba\Desktop\Shauli-Blog\Shauli-Blog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\eliba\Desktop\Shauli-Blog\Shauli-Blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\eliba\Desktop\Shauli-Blog\Shauli-Blog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\eliba\Desktop\Shauli-Blog\Shauli-Blog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\eliba\Desktop\Shauli-Blog\Shauli-Blog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\eliba\Desktop\Shauli-Blog\Shauli-Blog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\eliba\Desktop\Shauli-Blog\Shauli-Blog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\eliba\Desktop\Shauli-Blog\Shauli-Blog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\eliba\Desktop\Shauli-Blog\Shauli-Blog\bin\roslyn\vbc.exe
+C:\Users\eliba\Desktop\Shauli-Blog\Shauli-Blog\bin\roslyn\VBCSCompiler.exe
+C:\Users\eliba\Desktop\Shauli-Blog\Shauli-Blog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\eliba\Desktop\Shauli-Blog\Shauli-Blog\bin\Shauli-Blog.dll.config
+C:\Users\eliba\Desktop\Shauli-Blog\Shauli-Blog\bin\Shauli-Blog.dll
+C:\Users\eliba\Desktop\Shauli-Blog\Shauli-Blog\bin\Shauli-Blog.pdb
+C:\Users\eliba\Desktop\Shauli-Blog\Shauli-Blog\bin\EntityFramework.dll
+C:\Users\eliba\Desktop\Shauli-Blog\Shauli-Blog\bin\EntityFramework.SqlServer.dll
+C:\Users\eliba\Desktop\Shauli-Blog\Shauli-Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\eliba\Desktop\Shauli-Blog\Shauli-Blog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\eliba\Desktop\Shauli-Blog\Shauli-Blog\bin\System.Web.Helpers.dll
+C:\Users\eliba\Desktop\Shauli-Blog\Shauli-Blog\bin\System.Web.Mvc.dll
+C:\Users\eliba\Desktop\Shauli-Blog\Shauli-Blog\bin\System.Web.Razor.dll
+C:\Users\eliba\Desktop\Shauli-Blog\Shauli-Blog\bin\System.Web.Webpages.Deployment.dll
+C:\Users\eliba\Desktop\Shauli-Blog\Shauli-Blog\bin\System.Web.Webpages.dll
+C:\Users\eliba\Desktop\Shauli-Blog\Shauli-Blog\bin\System.Web.Webpages.Razor.dll
+C:\Users\eliba\Desktop\Shauli-Blog\Shauli-Blog\bin\EntityFramework.xml
+C:\Users\eliba\Desktop\Shauli-Blog\Shauli-Blog\bin\EntityFramework.SqlServer.xml
+C:\Users\eliba\Desktop\Shauli-Blog\Shauli-Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\eliba\Desktop\Shauli-Blog\Shauli-Blog\bin\System.Web.Razor.xml
+C:\Users\eliba\Desktop\Shauli-Blog\Shauli-Blog\bin\System.Web.Webpages.xml
+C:\Users\eliba\Desktop\Shauli-Blog\Shauli-Blog\bin\System.Web.Webpages.Deployment.xml
+C:\Users\eliba\Desktop\Shauli-Blog\Shauli-Blog\bin\System.Web.Webpages.Razor.xml
+C:\Users\eliba\Desktop\Shauli-Blog\Shauli-Blog\bin\System.Web.Helpers.xml
+C:\Users\eliba\Desktop\Shauli-Blog\Shauli-Blog\bin\System.Web.Mvc.xml
+C:\Users\eliba\Desktop\Shauli-Blog\Shauli-Blog\obj\Debug\Shauli-Blog.csprojResolveAssemblyReference.cache
+C:\Users\eliba\Desktop\Shauli-Blog\Shauli-Blog\obj\Debug\Shauli_Blog.Migrations.InitialCreate.resources
+C:\Users\eliba\Desktop\Shauli-Blog\Shauli-Blog\obj\Debug\Shauli_Blog.Migrations.init.resources
+C:\Users\eliba\Desktop\Shauli-Blog\Shauli-Blog\obj\Debug\Shauli_Blog.Migrations.dbFans.resources
+C:\Users\eliba\Desktop\Shauli-Blog\Shauli-Blog\obj\Debug\Shauli_Blog.Migrations.dbFan.resources
+C:\Users\eliba\Desktop\Shauli-Blog\Shauli-Blog\obj\Debug\Shauli-Blog.csproj.GenerateResource.Cache
+C:\Users\eliba\Desktop\Shauli-Blog\Shauli-Blog\obj\Debug\Shauli-Blog.dll
+C:\Users\eliba\Desktop\Shauli-Blog\Shauli-Blog\obj\Debug\Shauli-Blog.pdb

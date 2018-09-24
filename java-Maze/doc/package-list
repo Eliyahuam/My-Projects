@@ -1,0 +1,14 @@
+algorithm.mazeGenerators
+algorithms.demo
+algorithms.search
+boot
+demo
+domains
+io
+maze.domain
+model
+presenter
+presenter.commands
+presenter.viewCommands
+view
+view.gui

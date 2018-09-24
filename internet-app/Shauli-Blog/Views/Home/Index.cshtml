@@ -1,0 +1,96 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+@model IEnumerable<Shauli_Blog.Models.Post>
+
+<h2>Hablog Shel Shauli</h2>
+
+<section>
+
+    <div id="search">
+        <form action="search_form.asp">
+            From Date: <input type="date" name="from_date"> To Date: <input type="date" name="to_date"><br>
+            Name: <input type="name" name="name"><br>
+            E-mail: <input type="email" name="email"><br>
+            Text: <input type="text" name="text"><br>
+            Posts: 0<input type="range" name="post" min="1" max="10">10	<br>
+            <input type="submit" value="Submit">
+        </form>
+        <br>
+    </div>
+    </section>
+
+@foreach (var item in Model)
+{
+    <section>
+        <article class="blogPost">
+            <header>
+                <h2>@item.Title</h2>
+                <p>Posted on @item.PostDate by <a href="@item.SiteOfAuthor">@item.Author</a> - <a href="#comments"> @item.Comments.Count  Comments</a></p>
+            </header>
+            <div>
+                <p>@item.Content</p>
+            </div>
+        </article>
+    </section>
+
+
+    <section>
+        <p>
+        @if (File.Exists(Server.MapPath("~/upFiles/") + item.ID + ".png"))
+        {
+            <img id="@(item.ID + "img")" src="~/upFiles/@(item.ID + ".png")" width="420" height="315" style="visibility: visible;" />
+        }
+        </p>
+        <p>
+        @if (File.Exists(Server.MapPath("~/upFiles/") + item.ID + ".mp4"))
+        {
+            <video width="420" height="315" controls preload="auto"><source src="~/upFiles/@(item.ID + ".mp4")" />
+            </video>
+        }
+        </p>
+    </section>
+
+
+
+    <section id="comments">
+        <h3> Comments </h3>
+        @foreach(var comment in item.Comments)
+        {
+            <article>
+                <header>
+                    <a href="@comment.SiteOfAuthor">@comment.AuthorName</a>
+                </header>
+                <p style="font-weight:bold">@comment.Title</p>
+                <p>@comment.Content</p>
+            </article>
+        }
+    </section>
+
+    using (Html.BeginForm("postComment", "Home", FormMethod.Post))
+    {
+        @Html.AntiForgeryToken()
+        <h3>Post a comment</h3>
+
+            <input type="hidden" name="PostID" value="@item.ID" />
+            <p>
+                <label for="Title">Title</label>
+                <input name="Title" id="Title" type="text" required />
+            </p>
+            <p>
+                <label for="AuthorName">Author Name</label>
+                <input name="AuthorName" id="AuthorName" type="text" required />
+            </p>
+            <p>
+                <label for="AuthorSite">Your Site</label>
+                <input name="AuthorSite" id="AuthorSite" type="url" />
+            </p>
+            <p>
+                <label for="Content">Content</label>
+                <textarea name="Content" id="Content" rows="5" cols="40" required></textarea>
+            </p>
+            <p><input type="submit" value="Post comment" /></p>
+    }
+}
