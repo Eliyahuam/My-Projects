@@ -1,0 +1,21 @@
+<header>
+  <h3>   מזג אוויר </h3>
+</header>
+<!-- weather widget start --><a target="_blank" href="http://booked.co.il/weather/rishon-leziyyon-w257857">
+  <img src="https://w.bookcdn.com/weather/picture/1_w257857_1_25_3e3969_209_ffffff_333333_08488D_1_ffffff_333333_0_6.png?scode=2&domid=w209&anc_id=61905"  alt="booked.net"/></a><!-- weather widget end --><div class="page-header">  
+    <h1>Google Map In Angular </h1>  
+  </div>  
+  <div class="container">  
+    <div class="row">  
+      <div class="col-md-12">  
+          <agm-map [latitude]="lat" [longitude]="lng" >
+              <agm-marker 
+            *ngFor="let location of locations"  
+            [latitude]="location.x"   
+            [longitude]="location.y"   
+            ></agm-marker>
+            
+          </agm-map>
+        </div>  
+    </div>  
+  </div>  
